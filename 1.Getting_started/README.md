@@ -33,6 +33,7 @@
 - To create your first Rust project using Cargo, run the below command
   `cargo new hello_world`
 - This will create a new project named `hello_world`, this folder will contain src, .gitignore and Cargo.toml (similar to `package.json` in NodeJS to list project dependencies).
+
   ![alt text](assets/folder_structure.png)
 
 ## Build Project using Cargo.
