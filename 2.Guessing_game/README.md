@@ -21,7 +21,8 @@
 
 ## Generate a Random number using Rand dependency.
 
-- Now we need to generate a random number and compare it with user guessed number. To do that, we have to include a dependency `[rand](https://crates.io/crates/rand)`.
+- Now we need to generate a random number and compare it with user guessed number. To do that, we have to include a dependency [rand](https://crates.io/crates/rand).
+
   ![Add dependency in cargo.toml](assets/cargo_rand_dependency.png)
 
 - Run `cargo build` to install the `rand` dependency. This will install all the required dependencies.
