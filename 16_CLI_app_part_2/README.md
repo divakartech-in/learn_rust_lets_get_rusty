@@ -6,7 +6,6 @@
 
 - [Create a Library crate](#create-a-library-crate)
 - [Test Driven Development](#test-driven-development)
-- []()
 
 ## Create a Library crate
 
