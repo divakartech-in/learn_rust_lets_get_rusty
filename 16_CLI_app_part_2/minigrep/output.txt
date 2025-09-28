@@ -1,0 +1,5 @@
+case_insensitive false
+Searching for test
+In file poem.txt
+This is a sample file content to test the CLI app.
+This is a sample file content to TEst the CLI app.
